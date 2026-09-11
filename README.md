@@ -12,9 +12,6 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/ARTHURDotom">
     <img src="https://img.shields.io/badge/GitHub-ARTHURDotom-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/rlk.dazl/">
-    <img src="https://img.shields.io/badge/Instagram-@rlk.dazl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
